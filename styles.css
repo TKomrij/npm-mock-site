@@ -1,0 +1,279 @@
+* {
+  margin: 0;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+header {
+  background-image: url("file:///Users/tatianekomrij/Desktop/Iron-Proj/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+}
+.top-left {
+  float: left;
+}
+
+.acronym {
+  padding: 0 0 0 8px;
+}
+
+.tool-bar {
+  display: inline-block;
+  float: right;
+  margin: 0;
+
+}
+
+.tool-bar li {
+  display: inline-block;
+  margin: 0 0 0 0px;
+  padding: 0 30px 0 0px;
+}
+
+
+.second-div {
+  width:66%;
+  margin: 0 auto;
+  height: 500px;
+  color: white;
+}
+
+.p-class-1 {
+  padding: 30px 0 30px 0;
+  width: 470px;
+  font-size: 1.1em;
+
+}
+
+.heart{
+  padding: 15px;
+
+}
+
+.sign-up {
+  float: right;
+  color: rgb(255,255,255);
+  text-decoration: none;
+  padding-top: 15px;
+  padding-right: 5px;
+  margin: 0 0 0 0;
+ }
+
+ .up {
+  text-decoration: none;
+  color: white;
+ }
+
+.h1-first {
+  font-size: 50px;
+  width: 500px;
+  text-align: left;
+  padding-top: 150px;
+}
+
+.w66p {
+  width:1020px;
+  margin: 0 auto;
+ padding-top: 100px;
+
+}
+
+.h1-second {
+  font-size: 30px;
+  padding-bottom: 30px;
+  width: 300px;
+  line-height: 40px;
+}
+
+.h1-third {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.link-btn {
+  background-color: rgb(255,165,0);
+  color: white;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 140px;
+  border: 2px solid rgb(255,165,0);
+  border-radius: 25px;
+  font-size: 1em;
+  height: 25px;
+}
+
+.NPM {
+ padding: 0px 0 0 0;
+ height: 40px;
+ float: left;
+ margin: 1px 0 0 15px;
+}
+
+.bear {
+float: right;
+height: 20px;
+padding: 14px 20px 0 0;
+}
+
+.city {
+  float: right;
+}
+
+.friends {
+  height: 275px;
+}
+
+.binoculars {
+
+}
+
+.mountains {
+
+}
+
+.backpack {
+  
+}
+
+.no-bullet {
+  list-style-type: none;
+}
+
+.search-bar{
+  padding: 15px 0 13px 10px;
+  margin: 1px 0 0 20px;
+  height: 20px;
+  display: block; 
+  border: 1px solid rgba(75, 120, 146, 0.699);
+  text-align: left;
+  color: darkgray;
+  float: left;
+  font-size: 1em;
+  width: 80%;
+  background-color: rgb(31, 82, 111);
+}
+
+.search-2 {
+  margin:1px 0 13px 0;
+  height: 46px;
+  display: block;
+   width: 3%;
+  float: left;
+  background-color: rgba(31, 82, 111, 0.884);
+
+  border: 1px solid rgba(75, 120, 146, 0.699);
+}
+
+.section-2 {
+  background-color: rgb(39, 53, 71);
+  height: 500px;
+}
+
+.friends-img {
+  float: left;
+
+}
+
+.npm-inf {
+  float: right;
+  color: white;
+  line-height: 25px;
+  font-size: 1.2em;
+}
+
+.tips {
+  line-height: 35px;
+}
+ 
+
+.shr-rcv {
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 200px;
+  color: white;
+  height: 350px;
+}
+
+.shr-rcv-2 {
+  width: 300px;
+}
+.sec-3 {
+  background-image: url("file:///Users/tatianekomrij/Desktop/Iron-Proj/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+}
+.second-btn {
+  margin-top: 20px;
+  background-color: #C12127;
+  border-color: #C12127;
+  font-size: .8em;
+}
+.third-btn {
+  margin-top: 20px;
+  background-color: rgb(39, 53, 71);
+  border-color: rgb(39, 53, 71);
+  width: 100px;
+}
+
+.learn-more {
+  text-decoration: none;
+  color: white;
+}
+
+.lrn-sm-mr {
+  margin-top: 10px;
+  font-size: .8em;
+}
+
+.footer {
+  text-align: center;
+  height: 400px;
+
+}
+
+.foot-head {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  color: rgb(83, 88, 98);
+}
+
+.btm-pic {
+  float: right;
+  width: 225px;
+  margin-top: 40px;
+  margin-right: 210px;
+}
+
+.btm-pic-3 {
+  margin-right: 200px;
+}
+
+.btm-pic-2 {
+  width: 250px;
+  margin-right: 200px;
+}
+
+btm-pic-1 {
+  width: 250px;
+  margin-right: 300px;
+}
+
+.space {
+  margin-bottom: 17px;
+}
+
+.p-color {
+  color: rgb(135, 145, 156);
+}
+
+.lnk-col {
+  color: rgb(208, 74, 73)
+}
